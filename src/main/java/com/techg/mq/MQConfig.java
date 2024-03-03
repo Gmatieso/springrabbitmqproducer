@@ -21,7 +21,7 @@ public class MQConfig {
     //This is the queue
     @Bean
     public Queue queue() {
-        return  new Queue("QUEUE");
+        return  new Queue(QUEUE);
     }
 
     //This is the exchange
