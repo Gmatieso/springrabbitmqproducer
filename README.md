@@ -6,7 +6,7 @@ To get started with this example, follow these steps🤟
 - **Clone the Repository:**
  <br>Clone this repository to your local machine using the following command🌀 </br>
 ```
-git clone https:
+git clone git@github.com:Gmatieso/springrabbitmqproducer.git
  ```
 - **Install Dependencies:** 
 <br>Ensure you have Maven installed on your machine. Navigate to the project directory and run the following command to install dependencies:</br>
